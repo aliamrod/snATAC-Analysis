@@ -27,10 +27,15 @@ snATAC7-Cluster_Unique_Peaks => Identification of cluster specific peaks.
 
 # Integration Analyses of snRNA & snATAC
 snRNA_snATAC_Integration_01_Align_snATAC_snRNA => Integration of snRNA and snATAC data using nearest neighbor information.
+
 snRNA_snATAC_Integration_02_Create_Aggregate_snATAC_snRNA => Aggregate snRNA and snATAC data using nearest neighbor information.
+
 snRNA_snATAC_Integration_03_Compute_Peak_to_Gene_Links => Identification of enhancer-gene pairs by correlating each pair of distal snATAC peak and gene promoter.
+
 snRNA_snATAC_Integration_04_P2G_Analysis => Further characterization of identified enhancer-gene pairs.
+
 snRNA_snATAC_Integration_05_P2G_Monocle => Pseudotime analysis on integrated snRNA-snATAC object using Monocle3. Analyses also include model fitting to identify changes of accessibility and motif deviations as a function of pseudotime.
+
 snRNA_snATAC_Integration__06_chromVAR => Motif analysis for integrated object using chromVAR.
 
 
