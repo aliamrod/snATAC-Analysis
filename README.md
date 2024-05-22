@@ -37,7 +37,3 @@ snRNA_snATAC_Integration_04_P2G_Analysis => Further characterization of identifi
 snRNA_snATAC_Integration_05_P2G_Monocle => Pseudotime analysis on integrated snRNA-snATAC object using Monocle3. Analyses also include model fitting to identify changes of accessibility and motif deviations as a function of pseudotime.
 
 snRNA_snATAC_Integration__06_chromVAR => Motif analysis for integrated object using chromVAR.
-
-
-# List of Figures
-
